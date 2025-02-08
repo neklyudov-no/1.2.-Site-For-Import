@@ -2,5 +2,7 @@ tmp/
 *_old
 *_backup
 
+.DS_Store
+
 img/Thumbs.db
 img/.DS_Store
